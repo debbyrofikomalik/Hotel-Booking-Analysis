@@ -24,7 +24,7 @@ The following initial hypotheses were explored:
 
 ## Dataset Overview
 
-The dataset contains **119,390 observations** for a City Hotel and a Resort Hotel. Each entry corresponds to a single booking made between **July 1, 2015, and August 31, 2017**, including reservations that were completed and those that were canceled. It is publicly available on Kaggle.  
+The dataset contains **119,390 observations** for a City Hotel and a Resort Hotel. Each entry corresponds to a single booking made between **July 1, 2015, and August 31, 2017**, including reservations that were completed and those that were canceled. It is publicly available on [Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data).  
 
 ### Tools and Technologies
 * **Programming Language:** Python (Google Colab)  
@@ -71,4 +71,4 @@ The following recommendations are proposed to reduce cancellations and maximize 
 | Higher cancellations in Resort Hotels | Offer **discounted room rates** during weekends or holidays | Address seasonal/peak pricing sensitivity |
 | Portugal is the top country for cancellations | Enhance **hotel quality and service standards** for bookings from Portugal | Improve perceived value to reduce risk of cancellation |
 
-For a more detailed explanation, visualizations, and methodology, see the [deck presentation](https://example.com).
+For a more detailed explanation see the [deck presentation](https://example.com).
