@@ -123,7 +123,7 @@ It contains both completed and canceled reservations and is available on **Kaggl
 ## 💻 Access Code
 
 The Python notebook used for cleaning, analysis, and visualization can be accessed below:  
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1lSOFX6ZmrgjszC-u14KHjPdHcu5PJjZX?usp=sharing)
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1lSOFX6ZmrgjszC-u14KHjPdHcu5PJjZX?usp=drive_link)
 
 ---
 
