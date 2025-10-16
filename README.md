@@ -15,8 +15,6 @@ This analysis was performed as a Data Analysis portfolio project, utilizing **Py
 5.  [Tools and Technologies](#tools-and-technologies)
 6.  [Data Analysis and Key Findings](#data-analysis-and-key-findings)
 7.  [Recommendations](#recommendations)
-8.  [Access Code](#access-code)
-
 ---
 
 ## Business Problem
